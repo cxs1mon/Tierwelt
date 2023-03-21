@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    padding: 1em 0em;
+    font-size: 30px;
+}
+nav{
+    background-color: rgb(201, 179, 150);
+    padding: 0.5em 0;
+    border-radius: 10px;
+}
+h1{
+    padding: 2em 0;
+    display: flex;
+    justify-content: center;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
