@@ -16,3 +16,8 @@ nav{
     background-color: rgb(201, 179, 150);
     padding: 0.5em 0;
 }
+h1{
+    padding: 2em 0;
+    display: flex;
+    justify-content: center;
+}
