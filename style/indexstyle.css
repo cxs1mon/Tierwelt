@@ -6,3 +6,45 @@ a:link{
     text-decoration: none;
     color: black;
 }
+a{
+    font-size: 25px;
+    font-style: oblique;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2em;
+
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+
+p{
+    padding: 0, 70px;
+    display: flex;
+    justify-content: center;
+    font-size: 26px;
+}
+form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+article{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 50px;
+}
+body{
+    background-image: url("/img/swiss_wald.jpg");
+    backdrop-filter: blur(9px);
+    background-repeat: no-repeat;
+    background-size: 3000px 1700px;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -43,5 +43,13 @@ table, p{
     justify-content: center;
 }
 p{
-    padding: 0, 30px;
+    padding: 30px;
+}
+#infotext{
+margin: 50px;
+padding: 0;
+}
+
+html{
+    font-family: 'Times New Roman', Times, serif;
 }
