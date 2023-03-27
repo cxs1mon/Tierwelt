@@ -15,6 +15,7 @@ h2{
 nav{
     background-color: rgb(201, 179, 150);
     padding: 0.5em 0;
+    border-radius: 10px;
 }
 h1{
     padding: 2em 0;
@@ -32,4 +33,11 @@ img{
     img{
         padding: 2em;
     }
+}
+table, p{
+    display: flex;
+    justify-content: center;
+}
+p{
+    padding: 0, 30px;
 }

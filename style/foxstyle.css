@@ -10,8 +10,7 @@ ul{
 h2{
     display: flex;
     justify-content: center;
-    padding: 1em 0em;
-    font-size: 30px;
+    padding-bottom: 2em;
 }
 nav{
     background-color: rgb(201, 179, 150);
@@ -34,4 +33,11 @@ img{
     img{
         padding: 2em;
     }
+}
+table, p{
+    display: flex;
+    justify-content: center;
+}
+p{
+    padding: 0, 30px;
 }
