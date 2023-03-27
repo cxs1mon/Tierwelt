@@ -1,18 +1,39 @@
-a{
+a {
     text-decoration: none;
     color: black;
 }
-ul{
+
+ul {
     list-style-type: none;
     display: flex;
     justify-content: space-around;
 }
-h2{
+
+h2 {
     display: flex;
     justify-content: center;
     padding-bottom: 2em;
 }
-nav{
+
+nav {
     background-color: rgb(201, 179, 150);
     padding: 0.5em 0;
+}
+
+h1 {
+    padding: 2em 0;
+    display: flex;
+    justify-content: center;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (min-width: 670px){
+    img{
+        padding: 2em;
+    }
 }
