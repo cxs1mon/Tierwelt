@@ -53,5 +53,8 @@ body {
 }
 
 #titel {
-    font-size: 70px;
+    font-size: 60px;
+}
+#longtext{
+    font-size: 20px;
 }
